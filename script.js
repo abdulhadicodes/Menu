@@ -1,3 +1,4 @@
+//FUNCTIONALITY
 const mobile_nav = document.querySelector(".mobileNavBtn");
 const nav_header = document.querySelector(".header");
 const nav_Links = document.querySelector(".navLinks");
